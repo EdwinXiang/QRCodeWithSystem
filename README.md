@@ -1,0 +1,2 @@
+# QRCodeWithSystem
+使用系统的框架AVFoundation实现二维码扫描
